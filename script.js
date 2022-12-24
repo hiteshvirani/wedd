@@ -1,8 +1,8 @@
 playlist = {
-    'song_1': 'song/001.mp3',
-    'song_2': 'song/002.mp3',
-    'song_3': 'song/003.mp3',
-    'song_4': 'song/004.mp3',
+    'song_1': 'https://firebasestorage.googleapis.com/v0/b/wedding-15f22.appspot.com/o/songs%2F001.mp3?alt=media&token=488af319-3928-44ee-947a-b485649fca65',
+    'song_2': 'https://firebasestorage.googleapis.com/v0/b/wedding-15f22.appspot.com/o/songs%2F002.mp3?alt=media&token=af92c6f5-ad93-42e4-8a18-23888e8f84b4',
+    'song_3': 'https://firebasestorage.googleapis.com/v0/b/wedding-15f22.appspot.com/o/songs%2F003.mp3?alt=media&token=186f0a20-40b4-4b58-be2f-6566ee667d1f',
+    'song_4': 'https://firebasestorage.googleapis.com/v0/b/wedding-15f22.appspot.com/o/songs%2F004.mp3?alt=media&token=0e9b618d-75a8-4d75-ba96-d0807a1be4d6',
 }
 
 window.onload = function () {
